@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+
+.venv/
+venv/
+
+Output/
+build/
+dist/
+*.exe
+*.msi
+
+.DS_Store
+Thumbs.db
+.vscode/
